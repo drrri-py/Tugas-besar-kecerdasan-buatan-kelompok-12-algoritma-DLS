@@ -1,0 +1,8 @@
+        "?": "tanya.png",
+        ".": "titik.png",
+        ",": "koma.png",
+        "_": "garis_bawah.png",
+        "-": "garis_tengah.png",
+        "!": "seru.png",
+        "/": "garismiring.png",
+        '"': "petikdua.png"
